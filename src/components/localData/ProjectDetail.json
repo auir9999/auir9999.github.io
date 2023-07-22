@@ -1,0 +1,24 @@
+[
+  {
+    "name": "CAPSTONE PROJECT",
+    "synopsis": "The final culminative project in my Bachelor's Degree program, focused on developing a \"wiki style\" webpage in a professional team setting. It spanned over 3 semesters consisting of the proposal, development, and deployment stages of a fully functioning website that utilizes an external database, backend Node JS server to handle data communication, and a frontend angular app to create a fully responsive interface.",
+    "purpose":"The purpose was to develop a fully functioning \"wiki style\" webpage for a phone gacha game, as there was no english localization of said information hub.",
+    "problem":"The problem was that we were required to develop an entire full-stack system that involved the usage of admin/user accounts, as well as a functioning commenting system.",
+    "solution":"Throughout the development process, I was both a core developer and acting team leader that was responsible for: team sprint and task management, overseeing final proposal development, planning for the overall project design, designing and creating the MongoDB database, creating the entire Node JS backend server following REST API practices, and creating the typescript functions for the angular frontend server.",
+    "learned":"What I learned through this experience beyond just basic fullstack development, was how to act as a team leader to plan out and create the capstone within the given time frame even through issues. In particular, our group experienced multiple instances of slow communication and members suddenly dropping the school program - resulting in loss of time and sprint task completion rate.",
+    "date":"APRIL 21, 2021 - COMPLETED, NO EXPECTED UPDATES",
+    "tech":"TECH USED: ANGULAR JS, GITHUB, HEROKU, MONGODB ATLAS, NODE JS\nLANGUAGES USED: CSS, HTML, JAVASCRIPT, TYPESCRIPT",
+    "link": "https://frontend-gs.herokuapp.com/"
+  },
+  {
+    "name": "PERSONAL WEBSITE - RESUME",
+    "synopsis": "This website serves as both a personal resume website and a centralized project hub, where I use this as a learning platform for developing in the REACT framework and allow for people to easily access the latest information and projects I have worked or are working on.",
+    "purpose":"The purpose is to create a website that has the latest resume information and easily accessible list of my technical projects",
+    "problem":"The problem is that I have not only do I have a lacking project portfolio, I have been lacking in practice for web development.",
+    "solution":"I chose to work on a personal website using the REACT framework that I feel has been greatly lacking in practice. With this, I can not only develop a project that can be shown, but I can now also use this as a platform to practice deploying and further updating in the future to ensure web development skill improvement.",
+    "learned":"What I discovered was that not only have I recovered most of my web development skills from my education, but I have also improved in my skills using the REACT framework with more up-to-date techniques such as the hook based system along with utilising specific libraries such as MUI and components such as slick. I plan to use this further as a constant project that will serve as both a demonstration of my skills and as a testing realm for interesting new ideas and components I want to try.",
+    "date":"JULY 22, 2023 - V1 COMPLETED, FUTURE UPDATES PENDING",
+    "tech":"TECH USED: GITHUB, GITPAGES, REACT JS\nLANGUAGES USED: CSS, HTML, JAVASCRIPT",
+    "link": "https://auir9999.github.io/"
+  }
+]

@@ -1,0 +1,16 @@
+.slicktable {
+    margin: auto;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    padding: auto;
+}
+.img-resize{
+    width:300px;
+    height:auto;
+    margin:auto;
+}
+
+.slick-dots li.slick-active button:before {
+    color:White !important;
+}

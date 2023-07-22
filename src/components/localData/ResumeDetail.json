@@ -1,0 +1,18 @@
+[
+    {
+        "name": "EDUCATION COMPLETED",
+        "detail": "BACHELOR OF TECHNOLOGY - SOFTWARE DEVELOPMENT (BSD)\nSENECA COLLEGE - NORTH YORK, ON\t2019-SEPT - 2022-AUG\n\nCOMPUTER PROGRAMMING DIPLOMA (CPD)\nSENECA COLLEGE - NORTH YORK, ON\t2017-SEPT - 2018-APR"
+    },
+    {
+        "name": "WORK EXPERIENCE",
+        "detail": "JUNIOR TECHNICAL ANALYST, CO-OP ASSOCIATE\nMINISTRY OF TRANSPORTATION ONTARIO - NORTH YORK, ON\t2022-JAN - 2022-APR\n  ▪ Collaborated with team to complete technical milestones within expected deadlines\n  ▪ Presented low- and high-level technical data within the team along with external applications to the branch\n  ▪ Assisted in the data quality assurance with the various Informatica services such as IDQ and Axon\n  ▪ Responsible for maintaining and writing python scripts used for the integration process between Informatica Axon and Azure DevOps\n  ▪ Conducted the weekly integration process to ensure that the information that we use is up to date\n  ▪ Developed an interactive dashboard using Power BI to present the data with more clarity and functionality\n\nGAMES ASSOCIATE\nCANADA'S WONDERLAND - VAUGHAN, ON\t2018-JUN - 2018-OCT\n  ▪ Answered questions about game policies and concerns to support positive customer experiences\n  ▪ Promoted safety of visitors and mitigated liability risks by monitoring recreation areas, enforcing rules and safety policies\n  ▪ Oversaw maintenance and operation of various carnival themed games, ensuring safety, cleanliness, and operational efficiency\n  ▪ Delivered information to visitors, including detailed information about facilities"
+    },
+    {
+        "name": "TECHICAL SKILLS",
+        "detail": "GENERAL PROGRAMMING LANGUAGES: \nC, C++, Java, Python\n\nWEB DEVELOPMENT: \nAngular, CSS, HTML, JavaScript, Node JS, React, Typescript\n\nDATABASE MANAGEMENT: \nAS400, Azure DevOps, Informatica Axon, Informatica IDQ, MongoDB Databases, Oracle SQL, SQL\n\nGAMES & ASSET RELATED: \n3DS MAX, OpenGL, Photoshop\n\nGENERAL TOOLS: \nGithub, Microsoft 365"
+    },
+    {
+        "name": "GENERAL SKILLS",
+        "detail": "LANGUAGES: \n  ▪ English\n  ▪ Chinese - Mandarin (verbal only)\n\nWORK ETHICS: \n  ▪ Adept at multi-tasking\n  ▪ Excellent in completing tasks independently and in a team setting\n  ▪ Strong communication and organizational skills\n  ▪ Responsible and goal-driven focus"
+    }
+]
