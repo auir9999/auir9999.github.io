@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/github.io/static/css/main.3b9f02ba.css",
-    "main.js": "/github.io/static/js/main.66bdeb9d.js",
-    "static/media/kayangel4.png": "/github.io/static/media/kayangel4.8b94eff99dd70faef42d.png",
-    "static/media/brel6csv3.png": "/github.io/static/media/brel6csv3.1f3e73d609dcfaf52001.png",
-    "static/media/brelg6csv2.png": "/github.io/static/media/brelg6csv2.9f11fd667b3371c363e1.png",
-    "static/media/brel g6 cheatsheet.png": "/github.io/static/media/brel g6 cheatsheet.41585ef7512119b42923.png",
-    "static/media/kayangel3.png": "/github.io/static/media/kayangel3.120dc214bd131ee5e862.png",
-    "static/media/kayangel12.png": "/github.io/static/media/kayangel12.da6ad53643b8b7c00bdd.png",
-    "static/media/profile.jpg": "/github.io/static/media/profile.fdbe6ef849e02565410f.jpg",
-    "static/media/slick.svg": "/github.io/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/github.io/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/github.io/index.html",
-    "main.3b9f02ba.css.map": "/github.io/static/css/main.3b9f02ba.css.map",
-    "main.66bdeb9d.js.map": "/github.io/static/js/main.66bdeb9d.js.map"
+    "main.css": "/auir9999.github.io/static/css/main.1df1275a.css",
+    "main.js": "/auir9999.github.io/static/js/main.319f37c0.js",
+    "static/media/kayangel4.png": "/auir9999.github.io/static/media/kayangel4.8b94eff99dd70faef42d.png",
+    "static/media/brel6csv3.png": "/auir9999.github.io/static/media/brel6csv3.1f3e73d609dcfaf52001.png",
+    "static/media/brelg6csv2.png": "/auir9999.github.io/static/media/brelg6csv2.9f11fd667b3371c363e1.png",
+    "static/media/brel g6 cheatsheet.png": "/auir9999.github.io/static/media/brel g6 cheatsheet.41585ef7512119b42923.png",
+    "static/media/kayangel3.png": "/auir9999.github.io/static/media/kayangel3.120dc214bd131ee5e862.png",
+    "static/media/kayangel12.png": "/auir9999.github.io/static/media/kayangel12.da6ad53643b8b7c00bdd.png",
+    "static/media/profile.jpg": "/auir9999.github.io/static/media/profile.fdbe6ef849e02565410f.jpg",
+    "static/media/slick.svg": "/auir9999.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/auir9999.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/auir9999.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/auir9999.github.io/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/auir9999.github.io/index.html",
+    "main.1df1275a.css.map": "/auir9999.github.io/static/css/main.1df1275a.css.map",
+    "main.319f37c0.js.map": "/auir9999.github.io/static/js/main.319f37c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b9f02ba.css",
-    "static/js/main.66bdeb9d.js"
+    "static/css/main.1df1275a.css",
+    "static/js/main.319f37c0.js"
   ]
 }
