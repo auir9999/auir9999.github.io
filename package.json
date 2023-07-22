@@ -1,8 +1,8 @@
 {
   "name": "auir9999.github.io",
   "version": "0.1.0",
-  "homepage":"http://auir9999.github.io/auir9999.github.io",
-  "private": true,
+  "homepage":"https://auir9999.github.io/",
+  "private": false,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@emotion/react": "^11.11.1",
