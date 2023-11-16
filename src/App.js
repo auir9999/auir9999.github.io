@@ -7,6 +7,7 @@ import Navbar from './components/Navbar';
 import Home from './components/pages/Home';
 import Projects from './components/pages/Projects';
 import Resume from './components/pages/Resume';
+import Gallery from './components/pages/Gallery';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route path='/' exact element={<Home/>} />
+          <Route path='/gallery' element={<Gallery/>} />
           <Route path='/projects' element={<Projects/>} />
           <Route path='/resume' element={<Resume/>} />
         </Routes>

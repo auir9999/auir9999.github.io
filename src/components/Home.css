@@ -40,13 +40,34 @@ p{
 }
 
 .content{
-    float:left;
+    float:right;
+    margin:2% 5%;
+}
+
+.changelog{
+    float:right;
     margin:2% 5%;
 }
 
 .profile{
-    float:left;
+    float:right;
     margin: auto;
     padding: 2%;
     text-align: center;
+}
+
+#wrapper{
+    display: flex;
+    flex-direction: row;
+}
+
+#wrapper div{
+    min-height: 200px;
+    padding: 10px;
+ }
+  
+@media screen and (max-width: 800px) {
+    #wrapper { 
+    flex-direction: column-reverse;
+   }
 }

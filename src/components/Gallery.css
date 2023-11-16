@@ -1,0 +1,38 @@
+h1, h3{
+    font-weight: bold;
+    color:#fff;
+}
+
+h2{
+    color:#fff;
+    margin:10px 10% 25px;
+}
+
+p{
+    color:#ffffffe1;
+    letter-spacing: 0.5px;
+    line-height: 1.4;
+}
+
+.main{
+    width:80%;
+    box-sizing: border-box;
+    background-color: #75747a;
+    border:10px;
+    padding: 10px;
+    margin:10px auto;
+    border-radius: 10px;
+    overflow:auto;
+    display:flex;
+}
+
+.content{
+    float:left;
+    margin:2% 5%;
+}
+
+.gallery{
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
